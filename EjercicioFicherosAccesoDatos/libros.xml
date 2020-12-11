@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lista>
+    <libro>
+        <autor>Rosa Melpito</autor>
+        <editorial>Edebe</editorial>
+        <fechaPubli>01/01/2005</fechaPubli>
+        <genero>Novela Cubana</genero>
+        <titulo> La huida</titulo>
+    </libro>
+    <libro>
+        <autor>Mercedes Fuentes</autor>
+        <editorial>Edebe</editorial>
+        <fechaPubli>02/01/2005</fechaPubli>
+        <genero>Ficcion</genero>
+        <titulo>Mil y una noches</titulo>
+    </libro>
+</lista>
